@@ -1,2 +1,2 @@
 # social_media
-messenger with find friends and chat with
+messenger: find new friends and text them
